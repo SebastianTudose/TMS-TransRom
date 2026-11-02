@@ -13,3 +13,8 @@ Pachete:
 
 ---
 Rulare teste: `mvn test` (Java 17+, Maven 3.9+).
+
+<img width="2623" height="2158" alt="Fig5_Diagrama_Clase_Domeniu" src="https://github.com/user-attachments/assets/90b0b45a-4b8d-4f5a-91cc-705ccee3ce24" />
+
+<img width="2352" height="1545" alt="Fig6_Model_Relational_ER" src="https://github.com/user-attachments/assets/88180985-c803-4b4b-8f7b-c6c6b51b4863" />
+
