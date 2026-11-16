@@ -19,6 +19,4 @@ Proiect Maven (Java 17+, Spring 6.2, Spring Data JPA 3.4, Hibernate 6.6, H2, JUn
 | `src/main/java` | Sprint 2 (domeniu) + Sprint 3 (persistență) |
 | `src/test/java` | Teste JUnit 5 (98): validare, calcul, workflow, persistență |
 
-Etichete Git sugerate: `sprint-1`, `sprint-2` (codul din arhiva `tms-domain.zip`), `sprint-3`.
-
 > Notă: testele de persistență nu au fost rulate pe Hibernate/H2 la momentul predării (Maven Central inaccesibil); rulați `mvn test` la prima utilizare.
