@@ -18,9 +18,6 @@ Proiect Maven (Java 17+, Spring 6.2, Spring Data JPA 3.4, Hibernate 6.6, H2, JUn
 |---|---|
 | `src/main/java` | Sprint 2 (domeniu) + Sprint 3 (persistență) |
 | `src/test/java` | Teste JUnit 5 (98): validare, calcul, workflow, persistență |
-| `docs/sprint1/`, `docs/sprint2/`, `docs/sprint3/` | Documente Word și diagrame pe sprint |
-| `docs/TMS_Ghid_Cod_Sursa*.docx` | Ghidul codului (Sprint 2 și completarea Sprint 3) |
-| `docs/diagrame-surse/` | Surse editabile ale diagramelor |
 
 Etichete Git sugerate: `sprint-1`, `sprint-2` (codul din arhiva `tms-domain.zip`), `sprint-3`.
 
