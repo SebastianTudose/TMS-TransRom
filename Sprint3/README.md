@@ -1,4 +1,4 @@
-# TMS – Transport Management System (DAM, Master SIAD, anul I, UAIC FEAA)
+# TMS – Transport Management System (DAM, Master SIA, anul I, UAIC FEAA)
 
 Proiect Maven (Java 17+, Spring 6.2, Spring Data JPA 3.4, Hibernate 6.6, H2, JUnit 5).
 
